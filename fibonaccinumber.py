@@ -16,7 +16,7 @@ def fib(n):
 
 for i in range(11):
 
-    print(fib(i))    
+    print(fib(i))
     
     
     
